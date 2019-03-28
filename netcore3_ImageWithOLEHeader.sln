@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28714.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netcore3_ImageWithOLEHeader", "netcore3_ImageWithOLEHeader\netcore3_ImageWithOLEHeader.csproj", "{633FA2EE-DCEC-49A3-8FA5-390CDB058DA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{633FA2EE-DCEC-49A3-8FA5-390CDB058DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633FA2EE-DCEC-49A3-8FA5-390CDB058DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633FA2EE-DCEC-49A3-8FA5-390CDB058DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633FA2EE-DCEC-49A3-8FA5-390CDB058DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBBB0C14-4857-4D2C-B180-9F3EEB3507DD}
+	EndGlobalSection
+EndGlobal
